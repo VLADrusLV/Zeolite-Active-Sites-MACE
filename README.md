@@ -23,7 +23,7 @@ The repository is rigorously organized to reflect the computational workflow and
     * *Example:* `Optimized_Clusters/FINAL_PAIR/FER/11/Fe2O.xyz`
 
 * **`ML_Dataset/`**
-  Contains the comprehensive `features.xlsx` database. This file includes the labeled features of all extracted cluster structures from the zeolite frameworks, which were utilized for the unsupervised learning, Recursive Feature Elimination (RFE), and Lasso regression analysis.
+  Contains the comprehensive `features.xlsx` database. This file includes the labeled features of all extracted cluster structures from the zeolite frameworks, which were utilized for Recursive Feature Elimination (RFE), and Lasso regression analysis.
 
 ## Computational Details
 
