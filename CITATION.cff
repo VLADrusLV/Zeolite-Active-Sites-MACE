@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: >-
+  If you use these data, please cite the published article in preferred-citation
+  and identify the repository commit and files used, as described in README.md.
+type: dataset
+title: >-
+  Data for "Common structural motifs of Fe-species at paired Al sites in MFI,
+  FER, and FAU zeolites for DeNOx applications"
+authors:
+  - family-names: Koveza
+    given-names: Vladislav A.
+  - family-names: Kuziuberdina
+    given-names: Elena O.
+  - family-names: Potapenko
+    given-names: Oleg V.
+repository-code: "https://github.com/VLADrusLV/Zeolite-Active-Sites-MACE"
+url: "https://github.com/VLADrusLV/Zeolite-Active-Sites-MACE"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Koveza
+      given-names: Vladislav A.
+    - family-names: Kuziuberdina
+      given-names: Elena O.
+    - family-names: Potapenko
+      given-names: Oleg V.
+  title: >-
+    Common structural motifs of Fe-species at paired Al sites in MFI, FER, and
+    FAU zeolites for DeNOx applications
+  journal: Molecular Catalysis
+  year: 2026
+  volume: "599"
+  # Article identifier, not a page range or issue number.
+  number: "116003"
+  doi: "10.1016/j.mcat.2026.116003"
+  url: "https://doi.org/10.1016/j.mcat.2026.116003"
