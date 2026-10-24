@@ -1,8 +1,22 @@
 # Data for "Common structural motifs of Fe-species at paired Al sites in MFI, FER, and FAU zeolites for DeNOx applications"
 
-This repository contains the supplementary data, optimized atomic coordinates (`.xyz` files), and machine learning datasets associated with the manuscript submitted to *Molecular Catalysis*. 
+This repository contains the supplementary data, optimized atomic coordinates (`.xyz` files), and machine learning datasets associated with the article published in *Molecular Catalysis*, volume 599 (2026), article 116003. DOI: [10.1016/j.mcat.2026.116003](https://doi.org/10.1016/j.mcat.2026.116003).
 
 The study investigates the structure-activity relationships of Fe-modified zeolites (MFI, FER, and FAU) for DeNOx applications. By combining Genetic Algorithms (GA), equivariant neural network potentials (MACE), and periodic Density Functional Theory (DFT), we modeled large adaptive zeolite clusters (~140 atoms) to evaluate the "Redox Strain" and "topological ceiling" of binuclear iron active sites.
+
+## Publication
+
+Vladislav A. Koveza, Elena O. Kuziuberdina, Oleg V. Potapenko. Common structural motifs of Fe-species at paired Al sites in MFI, FER, and FAU zeolites for DeNOx applications. *Molecular Catalysis*. 2026. Vol. 599. Article 116003. DOI: [10.1016/j.mcat.2026.116003](https://doi.org/10.1016/j.mcat.2026.116003).
+
+## Citing the Data
+
+If you use the atomic structures, trajectories, or machine learning datasets in this repository, please cite the published article above.
+
+For reproducibility, also identify the data used by including the repository URL, the full commit SHA (or a permanent link to that commit), the relevant file paths, and the date accessed:
+
+> Koveza, V. A.; Kuziuberdina, E. O.; Potapenko, O. V. Data for "Common structural motifs of Fe-species at paired Al sites in MFI, FER, and FAU zeolites for DeNOx applications" [Dataset]. https://github.com/VLADrusLV/Zeolite-Active-Sites-MACE. Commit: `<full commit SHA>`; files: `<paths used>`; accessed: `<YYYY-MM-DD>`.
+
+Machine-readable metadata are provided in [CITATION.cff](CITATION.cff), with the published article specified as the preferred citation. The DOI above identifies the article, not a separately archived release of this dataset.
 
 ## Repository Structure
 
